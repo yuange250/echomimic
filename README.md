@@ -270,7 +270,7 @@ This project is intended for academic research, and we explicitly disclaim any r
 
 ## 🙏🏻 Acknowledgements
 
-We would like to thank the contributors to the [AnimateDiff](https://github.com/guoyww/AnimateDiff), [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) and [MuseTalk](https://github.com/TMElyralab/MuseTalk) repositories, for their open research and exploration. 
+We would like to thank the contributors to the [FollowYourEmoji](https://github.com/mayuelala/FollowYourEmoji), [AnimateDiff](https://github.com/guoyww/AnimateDiff), [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) and [MuseTalk](https://github.com/TMElyralab/MuseTalk) repositories, for their open research and exploration. 
 
 We are also grateful to [V-Express](https://github.com/tencent-ailab/V-Express) and [hallo](https://github.com/fudan-generative-vision/hallo) for their outstanding work in the area of diffusion-based talking heads.
 
